@@ -1,5 +1,113 @@
-# *Hello everyone!*
-- I am a C/C++ programmer, currently specializing in developing programs for Arduino and ESP8266/ESP32, as well as for other microcontrollers. I am constantly expanding my field of knowledge, finding applications for it, and participating in various contests and competitions.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Developer;C%2FC%2B%2B+%26+Microcontrollers;Firmware+Engineering" alt="Typing SVG" />
+</div>
 
-# *Всем привет!*
-- Я программист на C/C++, в настоящее время специализируюсь на разработке программ для Arduino и ESP8266/ESP32, а также для других микроконтроллеров. Постоянно расширяю свои знания, нахожу им применение и участвую в различных хакатонах и соревнованиях.
+<h3 align="center">👨‍💻 Инженер-разработчик встраиваемых систем</h3>
+
+<p align="center">
+   Занимаюсь разработкой низкоуровневого ПО, прошивок и библиотек для микроконтроллеров. Учавствую в соревнованиях и хакатонах, увлекаюсь воплощением смелых идей в реальные проекты и автоматизацией повседневных задач.
+  <br>
+  <i>Стремлюсь к написанию эффективного, безопасного и портируемого кода.</i>
+</p>
+
+<p align="center">
+  <a href="https://t.me/ваш_ник">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:ваш_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🏆 Достижения</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Al-Zhilin&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🕹 Платформы и Архитектуры</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" width="100"/><br>
+        <b>STM32</b>
+      </td>
+      <td align="left">
+        Изучение, протитипорование и разработка высоконадежных систем
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" width="100"/><br>
+        <b>ESP32 / ESP8266</b>
+      </td>
+      <td align="left">
+        IoT и Embedded решения: аналитические, управленческие и вычислительные системы
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/AVR-222222?style=flat&logo=arduino&logoColor=white" width="100"/><br>
+        <b>AVR / Arduino</b>
+      </td>
+      <td align="left">
+        Прототипирование, DIY и обучающие проекты. Встраиваемые, высоконадежные и отказоустойчивые решения
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🛠 Технологический стек</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,fastapi" alt="Languages" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=arduino,visualstudio,vscode,linux,git,cmake,docker,bash" alt="Tools" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-blue?style=flat-square&logo=freertos" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/Protocols-I2C%20%2F%20SPI%20%2F%20UART-orange?style=flat-square" alt="Protocols"/>
+  <img src="https://img.shields.io/badge/IDE-CubeIDE%20%2F%20PlatformIO-green?style=flat-square" alt="IDE"/>
+</p>
+
+---
+
+<h2 align="center">📊 Аналитика GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Al-Zhilin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=33CCFF&text_color=a9b1d6" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Zhilin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=33CCFF&text_color=a9b1d6&langs_count=6" height="170" alt="Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al-Zhilin&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-Zhilin&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Zhilin&theme=tokyonight&hide_border=true&background=1a1b27&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF" height="195" alt="Streak" />
+</div>
+
+<br>
+
+---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Zhilin&theme=tokyonight&hide_border=true&background=1a1b27&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF" alt="Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-Zhilin&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
