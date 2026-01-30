@@ -104,9 +104,6 @@
 <br>
 
 ---
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Zhilin&theme=tokyonight&hide_border=true&background=1a1b27&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF" alt="Streak"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-Zhilin&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
