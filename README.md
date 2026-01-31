@@ -11,22 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ваш_ник">
+  <a href="https://t.me/ololoevvvv">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:ваш_email@example.com">
+  <a href="mailto:alekseyzh5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<h2 align="center">🏆 Достижения</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Al-Zhilin&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</div>
 
 ---
 
@@ -84,12 +75,6 @@
 ---
 
 <h2 align="center">📊 Аналитика GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al-Zhilin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=33CCFF&text_color=a9b1d6" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Zhilin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=33CCFF&text_color=a9b1d6&langs_count=6" height="170" alt="Languages" />
-</div>
-
 <br>
 
 <div align="center">
