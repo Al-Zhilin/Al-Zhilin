@@ -78,14 +78,9 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-Zhilin&theme=tokyonight&utcOffset=3" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al-Zhilin&theme=tokyonight" alt="Profile Details" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-Zhilin&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Zhilin&theme=tokyonight&hide_border=true&background=1a1b27&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF" height="195" alt="Streak" />
-</div>
-
 <br>
 
 ---
