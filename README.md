@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ololoevvvv">
+  <a href="https://t.me/dr_diyy">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:alekseyzh5@gmail.com">
